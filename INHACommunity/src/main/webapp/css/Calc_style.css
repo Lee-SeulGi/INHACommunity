@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+table {
+      border: 1px solid grey;
+      border-collapse: collapse;
+   }
+   
+   .nonebtable {
+      margin-top: 10px;
+      margin-bottom: 10px;
+      border: none;
+   }
+   
+   div {
+      margin-top: 10px;
+      margin-bottom: 10px;
+      text-align: center;
+   } 
