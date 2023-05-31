@@ -10,10 +10,10 @@
 기존에 존재하는 대학 정보 서비스의 기능들이 제각각인 문제점을 발견하여, 해당 기능들을 하나로 통합하여 학교 생활 적응에 도움이 되도록 합니다.
 
 ## 🗓️ 진행스케줄
-<img src="https://github.com/Lee-SeulGi/INHACommunity/assets/89624548/8c702fe6-6186-4b79-b2cd-a57538872e07.png" width="950"/>
+![개발일정](https://github.com/Lee-SeulGi/INHACommunity/assets/89624548/1817f73c-91c1-40a0-ad8a-a771ad010bf7)
 
 ## 📜 개발 구조
-<img src="https://github.com/Lee-SeulGi/INHACommunity/assets/89624548/e41f4412-ccbf-4738-81af-7db05e12055d.png" width="950"/>
+![개발구조](https://github.com/Lee-SeulGi/INHACommunity/assets/89624548/578c6325-fbd1-4b32-a5a4-2accf77b8675)
 
 ## 🎬 실행영상
-<img src="https://github.com/Lee-SeulGi/INHACommunity/assets/89624548/01b4e496-d632-474b-8157-3aa7012e1ecf.gif" width="950"/>
+![구현영상](https://github.com/Lee-SeulGi/INHACommunity/assets/89624548/8af8b97c-398b-4c09-98b9-a53cea81baa2)
