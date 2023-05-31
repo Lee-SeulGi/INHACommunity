@@ -16,4 +16,5 @@
 ![개발구조](https://github.com/Lee-SeulGi/INHACommunity/assets/89624548/578c6325-fbd1-4b32-a5a4-2accf77b8675)
 
 ## 🎬 실행영상
-![구현영상](https://github.com/Lee-SeulGi/INHACommunity/assets/89624548/8af8b97c-398b-4c09-98b9-a53cea81baa2)
+<img src="https://github.com/Lee-SeulGi/INHACommunity/assets/89624548/8af8b97c-398b-4c09-98b9-a53cea81baa2.png" width="1200"/>
+
